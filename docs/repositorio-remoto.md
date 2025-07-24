@@ -9,4 +9,5 @@
 - Deberías ver la URL de tu repositorio listada dos veces (para fetch - traer, y push - enviar).
 origin  https://github.com/tu-usuario/mi-primer-proyecto.git (fetch)
 origin  https://github.com/tu-usuario/mi-primer-proyecto.git (push)
-- y para enlazarlo por primera vez le colocamos el comando "git push -u origin main"
+- y para enlazarlo por primera vez le colocamos el comando "git push -u origin main"  
+[link a imagen](../images/Captura%20de%20pantalla%202025-07-24%20112856.png) 
