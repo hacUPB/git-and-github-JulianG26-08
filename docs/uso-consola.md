@@ -10,4 +10,4 @@
 - cd 
 - cd ..
 - git log  
-[link a imagen de crecion de carpetas](../images/captura-pantalla-git.jpg)  
+![link a imagen de crecion de carpetas](../images/captura-pantalla-git.jpg)  
