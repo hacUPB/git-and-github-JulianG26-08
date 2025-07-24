@@ -10,4 +10,4 @@
 origin  https://github.com/tu-usuario/mi-primer-proyecto.git (fetch)
 origin  https://github.com/tu-usuario/mi-primer-proyecto.git (push)
 - y para enlazarlo por primera vez le colocamos el comando "git push -u origin main"  
-[link a imagen](../images/Captura%20de%20pantalla%202025-07-24%20112856.png) 
+![link a imagen](../images/Captura%20de%20pantalla%202025-07-24%20112856.png) 
