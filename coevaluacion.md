@@ -1,7 +1,7 @@
 # Archivo para coevaluacion de la unidad 1
 
 Estudiante evaluado:  
-link al repositorio: https://github.com/hacUPB/git-and-github-JulianG26-08.git
+link al repositorio: 
 |criterio de evaluacion|Puntaje|
 |---|---|
 |1. completitud de ejercicios  |  |
