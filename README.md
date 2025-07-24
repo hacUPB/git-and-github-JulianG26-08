@@ -1,9 +1,17 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
----
+Nombre del estudiante:  julian Galvez
+Id.:  000579307
+# explicacion de mi repositorio 
+- lo principal es explicar y analizar todos los comandos que podemos utilizar en nuestro repositorio local y remoto, y repasar cada comando para guardar subir informacion y clonar desde git hub. y en este repositorio tenemos alguna informacion basica para crear archivos, enlazar a la nube algunas imagenes y todo lo relacionado con clonar y hacer checkpoints que son los commit.
+- los pasos necesarios para clonar nuestro proyecto son:
+-- es tener primero un repositorio remoto al que tengamos que copiar, despues ejecutamos el comando git clone, para traerlo al local y ya despues para ejecutarlo solo es meternos en el y listo, si queremos traer informacion git pull, y para enviar git push
+# tabla de contenido 
+[link a repositorio local](./docs/repositorio-local.md)  
+[link a repositorio remoto](./docs/repositorio-remoto.md)  
+[link a uso consola](./docs/uso-consola.md)
+
 # Evaluación
 
 ### **Descripción de la Actividad:**
@@ -81,3 +89,6 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 7. **Entrega:**
     - Sube los cambios en tu proyecto al repositorio remoto en GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+
+
+[def]: ./docs/repositorio-local.md
