@@ -9,4 +9,5 @@
 - touch
 - cd 
 - cd ..
-- git log
+- git log  
+[link a imagen de crecion de carpetas](../images/captura-pantalla-git.jpg)  
